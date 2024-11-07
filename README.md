@@ -1,2 +1,1 @@
-# Data Science Individual Project
-
+## Project 1 - Sales Force Training
