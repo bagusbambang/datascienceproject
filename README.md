@@ -1,2 +1,2 @@
-# Data Science Individual Project
+## Project 4 - Bitcoin Price Prediction
 
